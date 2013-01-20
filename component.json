@@ -1,13 +1,9 @@
 {
   "name": "unique",
-  "repo": "Nami-Doc/unique",
+  "repo": "jkroso/unique",
   "description": "returns a new array without duplicates",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {
-    "Nami-Doc/contains": "*"
-  },
-  "development": {},
   "license": "MIT",
   "scripts": [
     "index.js"

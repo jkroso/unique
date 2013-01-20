@@ -6,11 +6,5 @@
     "chai": "*",
     "sourcegraph": "~0.3.2",
     "bigfile": "~0.2.1"
-  },
-  "dependencies": {
-    "contains": "~1.0.0"
-  },
-  "bundledDependencies": [
-    "contains"
-  ]
+  }
 }
